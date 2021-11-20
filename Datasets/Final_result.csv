@@ -1,0 +1,21 @@
+POS Word,POS Weight,NEG Word,NEG Weight
+room,29098.84,room,3411.27
+staff,12029.83,staff,763.10
+location,8240.86,service,723.79
+service,6759.41,food,516.75
+restaurant,6467.17,place,475.92
+breakfast,6318.61,people,416.54
+food,5972.94,resort,377.95
+place,5869.68,problem,361.72
+area,4970.54,desk,343.29
+beach,4944.32,bathroom,330.01
+pool,4740.81,water,320.70
+resort,4689.28,breakfast,310.93
+bar,4574.60,floor,309.05
+view,4176.90,hour,291.91
+people,4091.25,experience,290.75
+trip,3770.85,bed,287.54
+bathroom,3645.62,restaurant,271.34
+minute,3447.22,pool,268.44
+floor,3446.65,beach,267.04
+city,3378.20,day,266.47
